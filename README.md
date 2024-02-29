@@ -13,5 +13,5 @@
 
 ## Custom validation
 
--ConstraintValidator
--Custom anotation
+- ConstraintValidator
+- Custom anotation
